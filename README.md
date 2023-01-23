@@ -5,6 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tiago-fernandes-b9572a201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago-fernandes-b9572a201" height="30" width="40" /></a>
 <a href="https://instagram.com/tiago_jff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiago_jff" height="30" width="40" /></a>
+<a href="https://gitlab.com/_Tiago_Fernandes_" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" alt="tiago_jff" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
