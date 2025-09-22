@@ -20,8 +20,5 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagofernandes2002&show_icons=true&locale=en&layout=compact" alt="tiagofernandes2002" /></p>
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagofernandes2002&show_icons=true&locale=en" alt="tiagofernandes2002" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagofernandes2002&" alt="tiagofernandes2002" /></p> -->
+![Tiago's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TiagoFernandes2002&theme=vue-dark&hide_border=true)
+![Tiago's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFernandes2002&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
